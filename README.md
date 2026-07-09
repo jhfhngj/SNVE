@@ -23,7 +23,7 @@ Starting off with how to
 ### Clear the timeline!
 Look into the UI until you see this trash can image:
 
-[Very ok trash can](/trash.png)
+![Very ok trash can](/trash.png)
 
 That trash can with an X is the Clear Timeline button.
 
@@ -41,7 +41,7 @@ So now there's a different button for playing videos, as most other video editor
 
 Look for
 
-[This](/play.png)
+![This](/play.png)
 
 that button.
 
@@ -60,9 +60,9 @@ Cool right?
 
 Anyways they look like this or similar
 
-[Wow mit](/mit.png)
+![Wow mit](/mit.png)
 
-[Cool grid](/gridit.png)
+![Cool grid](/gridit.png)
 
 So just press them and see it in your timeline! They should look like `message2.1` or `message gd 2.3`.
 
@@ -77,9 +77,9 @@ It will automatically add a transition between the previous and the next (if any
 
 It looks like this:
 
-[Jellyboy](/JELLYBEANZ.png)
+![Jellyboy](/JELLYBEANZ.png)
 
-### Time to make your first video!
+## Time to make your first video!
 First, prep your video by clearing the timeline.
 
 This is important because if someone were to, I dunno, spam your timeline with images, you can clear it!
